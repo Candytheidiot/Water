@@ -1,0 +1,39 @@
+body 
+{ font-family: Georgia, 'Times New Roman', Times, serif, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+    background-color: hsl(117, 100%, 64%); 
+    color: #43c549; 
+} 
+header { 
+    background: #91e7ff; 
+    color: white; 
+    padding: 10px 0; 
+    text-align: center; 
+} 
+nav ul { 
+    list-style: none; 
+    padding: 0; 
+} 
+nav ul li { 
+    display: inline;
+     margin: 0 15px;
+     } 
+     nav ul li a { 
+        color: white; 
+        text-decoration: none; 
+    } 
+    nav ul li a:hover { 
+        text-decoration: underline; 
+    } main { 
+        padding: 20px; 
+    } 
+    footer { 
+        text-align: center; 
+        padding: 10px 0; 
+        background: #f6f6f6; 
+        color: rgb(104, 104, 104); 
+        position: relative; 
+        bottom: 0; 
+        width: 100%; 
+    }  
